@@ -1,0 +1,17 @@
+# CinemaTrailers - Professional Movie & Official Trailers Portal
+
+> Fast, lightweight, mobile-first movie discovery portal powered by TMDB.
+> Contact: yourmovies@movies.com
+
+## About CinemaTrailers
+CinemaTrailers provides instant access to official high-definition movie trailers, plot summaries, ratings, release dates, genres, and cast information. Built with a clean GeneratePress/Astra inspired minimalist design.
+
+## Features
+- **Official Trailers**: HD trailer playback with zero bloat.
+- **Browse Categories**: Popular, Now Playing, Top Rated, and Upcoming.
+- **Fast Search**: Instant movie query lookup.
+- **Mobile-First & Lightweight**: Optimized asset delivery, zero clutter.
+- **Direct Inquiries**: yourmovies@movies.com
+
+## Legal & Privacy
+This site respects user privacy and complies with modern web standards. Movie data and images courtesy of TMDB.

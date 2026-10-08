@@ -1,0 +1,8 @@
+{
+  "name": "Movie Domains ",
+  "description": "Comprehensive unclickable directory of movie domain names, streaming queries, actor keywords, and blockbuster film search terms on a clean white background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
